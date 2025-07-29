@@ -354,7 +354,7 @@ address > .social__items {
 }
 
 .footer__social-icon:hover {
-  background-color: var(--text-dark);
+  /*background-color: var(--text-dark);*/
   border-radius: 20%;
   transition: all 0.3s ease-in-out;
 }
