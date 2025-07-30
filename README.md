@@ -1,12 +1,13 @@
-# Personal Site
-A personal site showcasing my professional profile, thoughts and findings.
+# deeppublicgit.github.io
 
-[//]: # (<img src ="/img/work/portfolioMockup.png" alt="" width="300px">)
+Here is **Pradeep Kumar G**. 
 
-## Technologies Utilized
-* HTML
-* CSS
+This is the repository for my personal website.
 
-### Check out the live site here: [pradeepkumarg.com](https://pradeepkumarg.netlify.app/)
+## Update and News
 
-Header images from <a href="https://undraw.co/">unDraw</a>
+- **Jul 2025:** Modifying GuangLun's Jekyll source code
+
+## Statement
+
+© 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
